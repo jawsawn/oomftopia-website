@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+.out/
+.next/
+.cache/
+.temp/
+tmp/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Dependency directories
+.pnpm/
+.package-lock.json
+yarn.lock
+
+# Misc
+*.local
+*.log
+*.swp
+*.swo
+
+# Tailwind JIT cache
+.tailwindcss/
+
+# IDE files
+.idea/
+*.iml
